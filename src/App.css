@@ -1,0 +1,21 @@
+.app {
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  align-items: center;  /* vertically center logo and title */
+  gap: 15px;           /* space between logo and title */
+  margin-bottom: 20px;
+}
+
+.app-logo {
+  width: 100px;  /* adjust size as needed */
+  height: auto;
+}
+
+.app-title {
+  font-size: 2rem;
+  margin: 0;
+}
+
