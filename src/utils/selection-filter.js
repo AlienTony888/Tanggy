@@ -183,7 +183,7 @@ export default function selectionFilter({
                 data: tvmovieMovies.sort(() => Math.random() - Math.random()).slice(1, 10)
             },
             {
-                title: 'Thrilller',
+                title: 'Thriller',
                 data: thrillerMovies.sort(() => Math.random() - Math.random()).slice(1, 10)
             },
             {
